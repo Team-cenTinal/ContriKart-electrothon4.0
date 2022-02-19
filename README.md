@@ -2,7 +2,8 @@
 
 **Version 1.0.0**
 
-A platform that provides a platform where you can doante your belongings which are no more use to you, so that it can be use for needy ones.
+A platform that provides a platform where you can doante your belongings which are no more use to you, so that it can be used by needy ones.We believe that what is rubbish to 
+one person may be precious to another.
  
 ---
 
@@ -17,8 +18,8 @@ A platform that provides a platform where you can doante your belongings which a
 <a name="description"></a>
 ## DESCRIPTION
 
- >Through this website you can donate any of your belonging items which you thin is no use to you, so that any needy one can get it and use it.
- > To donate you have to fill the donation form for coantact and information of daonating items. 
+ >Through this website you can donate any of your belonging items which you think is no use to you, so that any needy one can get it and use it.
+ > To donate you have to fill the donation form for contact and information of donating items. 
  > Any needful person or any NGO can go through our website on items to be donated page and contact to the donator for the item
 
 ---
