@@ -2,7 +2,7 @@
 
 **Version 1.0.0**
 
-A platform that provides a platform where you can doante ypur belongings which are no more use to you, so that it can be use for needy ones.
+A platform that provides a platform where you can doante your belongings which are no more use to you, so that it can be use for needy ones.
  
 ---
 
