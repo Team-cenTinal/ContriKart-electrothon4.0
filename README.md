@@ -10,8 +10,8 @@ A platform that provides a platform where you can doante ypur belongings which a
 
 1. [Description](#description)
 2. [Contributors](#contributors)
-3. [FUTURE OF PRODUCT](#future)
-4. 
+3. [How to use](#how-to-use)
+4. [FUTURE OF PRODUCT](#future)
 
 ---
 <a name="description"></a>
