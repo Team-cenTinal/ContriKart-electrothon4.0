@@ -39,7 +39,7 @@ one person may be precious to another.
 ## HOW TO USE
 TO DONATE ITEMS
 
-STEP1: FILL OUT THE DONATION FORM WITH THE CORRECT DETAILS AND PARTICULARS OF THE DOANTING ITMES.
+STEP1: FILL OUT THE DONATION FORM WITH THE CORRECT DETAILS AND PARTICULARS OF THE DONATING ITEMS.
 
 STEP2: CLICK ON DONATE BUTTON.
 
@@ -57,7 +57,7 @@ STEP2: CONTACT THE DONATOR OF THE PARTICULAR ITEM YOU WANT .
 
 >After the launch of our full working website anyone(person/organisation) can go through our website and create an account to donate which are no use of them and they feel free   to give to anyone and after thaat they can get full history of their donating items. And they can also see the items to be donated list and if they need any of the items they   can contact to the donor easily from any means of communication provided by the donator.
 
->After implementing above feature we will add noyification alert for the person/orginastion signed up seeking donation as anyone listed the donated items in their pincode so   they can easily filter out according to their ease.  
+>After implementing above feature we will add notification alert for the person/orginasation signed up seeking donation as anyone listed the donated items in their pincode so   they can easily filter out according to their ease.  
 
 
 
