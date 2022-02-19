@@ -16,8 +16,7 @@ A platform that provides a platform where you can doante ypur belongings which a
 <a name="description"></a>
 ## DESCRIPTION
 
-Through this website you can donate any of your belonging items which you thin is no use to you, so that any needy one can 
-get it and use it.
+ >Through this website you can donate any of your belonging items which you thin is no use to you, so that any needy one can get it and use it.
  > To donate you have to fill the donation form for coantact and information of daonating items. 
  > Any needful person or any NGO can go through our website on items to be donated page and contact to the donator for the item
 
@@ -36,13 +35,19 @@ get it and use it.
 ---
 <a name="how-to-use"></a>
 ## HOW TO USE
-###TO DONATE ITEMS
+TO DONATE ITEMS
 
-STEP1: FILL OUT THE DONATION FORM WITH THE CORRECT DETAILS AND PARTICULARS OF THE DOANTING ITMES
-STEP2: CLICK ON DONATE BUTTON
+STEP1: FILL OUT THE DONATION FORM WITH THE CORRECT DETAILS AND PARTICULARS OF THE DOANTING ITMES.
 
-###TO SEE THE ITEMS TO BE DONATED
-STEP1: CLICK ON THE ITEMS TO BE DONATED BUTTON ON HOME PAGE
-STEP2: CONTACT THE DONATOR OF THE PARTICULAR ITEM YOU WANT 
+STEP2: CLICK ON DONATE BUTTON.
+
+
+TO SEE THE ITEMS TO BE DONATED
+
+
+STEP1: CLICK ON THE ITEMS TO BE DONATED BUTTON ON HOME PAGE.
+
+STEP2: CONTACT THE DONATOR OF THE PARTICULAR ITEM YOU WANT .
+
 
 
