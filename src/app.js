@@ -7,7 +7,7 @@ require("./db/conn");
 const Donate = require('./models/donate');
 const { default: mongoose } = require("mongoose");
 
-const port = process.env.PORT || 5000;
+const port = process.env.PORT || 8000;
 
 const static_path = path.join(__dirname, "../public");
 const views_path = path.join(__dirname, "../views");
