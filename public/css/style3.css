@@ -1,9 +1,15 @@
+body,
+html {
+    height: 100%;
+}
+
 .one {
-    height: 600px;
+    height: 100%;
     background: url('/images/WhatsApp Image 2022-02-18 at 9.47.05 PM.jpeg');
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
     opacity: 0.9;
+    overflow: hidden;
 }
 
 .logo {
