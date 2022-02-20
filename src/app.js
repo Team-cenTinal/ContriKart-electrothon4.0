@@ -10,13 +10,13 @@ const { default: mongoose } = require("mongoose");
 const port = process.env.PORT || 8000;
 
 const static_path = path.join(__dirname, "../public");
-const views_path = path.join(__dirname, "../views");
+const views_path = path.join(__dirname, "./views");
 
 app.use(express.urlencoded({ extended: false }));
 
 app.use(express.static(static_path));
 app.set("view engine", "ejs");
-app.set("views", "../views")
+app.set("views", "./views")
     // app.set("view engine", "ejs");
 
 
