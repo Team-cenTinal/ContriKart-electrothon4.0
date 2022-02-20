@@ -10,6 +10,7 @@ body{
    opacity: 0.9;
 }
 .logo{
+   margin-left: 0px;
    width: 14%;
    display: flex;
    justify-content: center;
@@ -47,9 +48,7 @@ body{
 }
 .navlist{
    display: flex;
-   justify-content: center;
-   align-items: center;
-   width: 70%;
+   width: 100%;
 }
 .navlist li{
    list-style: none;
@@ -57,9 +56,10 @@ body{
 
 }
 .navlist li a{
+   margin-left: 350px;
    font-weight: bold;
    text-decoration: none;
-   font-size: 20px;
+   font-size: 30px;
    color: black;
 }
 .navlist li a:hover{
@@ -100,8 +100,8 @@ form{
    height: 30px;
 }
 .name{
-   margin-left: 10px;
-   margin-top: 30px;
+   margin-left: 0px;
+   margin-top: 20px;
    width: 255px;
    color: white;
    font-size: 24px;

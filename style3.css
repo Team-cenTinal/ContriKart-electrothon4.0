@@ -1,0 +1,46 @@
+.one{
+   height: 600px;
+    background: url('WhatsApp\ Image\ 2022-02-18\ at\ 9.47.05\ PM.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    opacity: 0.9;
+ }
+ .logo{
+    margin-left: 0px;
+    width: 14%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .logo img{
+    width: 60%;
+    height: 60%;
+    border: 2px solid rgb(19, 7, 7);
+    border-radius: 010px;
+    margin-left: -10px;
+ }
+ .navbar{
+    position: sticky;
+    display: flex;
+    
+ }
+ .navlist{
+    display: flex;
+    width: 100%;
+ }
+ .navlist li{
+    list-style: none;
+    padding: 40px ;
+ 
+ }
+ .navlist li a{
+    margin-left: 150px;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+ }
+ .navlist li a:hover{
+    text-decoration: overline;
+    color: rgb(51, 51, 51);
+}
