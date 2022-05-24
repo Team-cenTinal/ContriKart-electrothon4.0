@@ -31,8 +31,7 @@ https://drive.google.com/file/d/1My4yuqP9FzHQ9PC_38Bl30BmkvQErwo9/view?usp=shari
 ## CONTRIBUTORS
 
 1. Praveen Kumar Yadav praveenkyadav02@gmail.com
-2. Vidhi Garg 20bph022@nith.ac.in
-3. Pragya Bansal 20bph023@nith.ac.in
+
 
 
 ---
