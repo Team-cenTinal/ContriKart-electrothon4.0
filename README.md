@@ -18,9 +18,9 @@ one person may be precious to another.
 <a name="description"></a>
 ## DESCRIPTION
 
- >Through this website you can donate any of your belonging items which you think is no use to you, so that any needy one can get it and use it.
- > To donate you have to fill the donation form for contact and information of donating items. 
- > Any needful person or any NGO can go through our website on items to be donated page and contact to the donator for the item
+ >Through this website, you can donate any of your belongings that you think are of no use to you so that any needy one can get them and use it.
+ > To donate, you have to fill out the donation form for contact information and information on donating items. 
+ > Any needful person or any NGO can go through our website on the items to be donated page and contact the donator for the item
 
 ---
 <a name="demo-link"></a>
@@ -31,6 +31,8 @@ https://drive.google.com/file/d/1My4yuqP9FzHQ9PC_38Bl30BmkvQErwo9/view?usp=shari
 ## CONTRIBUTORS
 
 1. Praveen Kumar Yadav praveenkyadav02@gmail.com
+2. Pragya Bansal pragyabansal1208@gmail.com
+3. Vidhi Garg vidhigarg1508@gmail.com
 
 
 
